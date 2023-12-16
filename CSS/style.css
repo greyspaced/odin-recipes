@@ -27,3 +27,46 @@ span {
     
     color: blueviolet;
 }
+
+.second-paragraph {
+
+    div {
+
+        background: pink;
+        width: 500px;
+        height: 500px;
+    }
+}
+
+.fourth-paragraph {
+    
+    text-align: center;
+    color: white;
+
+    div {
+
+        background-color: red;
+
+    }
+}
+
+.fifth-paragraph {
+
+    color: white;
+    
+    div {
+        
+        background-color: green;
+
+    } 
+}
+
+.sixth-paragraph {
+
+    color: black;
+     
+    div {
+
+        background-color: rgb(255, 157, 0);
+    }
+}
