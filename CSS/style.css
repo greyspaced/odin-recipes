@@ -1,0 +1,29 @@
+body {
+
+    background-color: blanchedalmond;
+    color: green;
+    font-size: 21px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+
+    color: brown;
+}
+
+h1 {
+
+    font-size: 70px;
+    color: pink;
+}
+
+span {
+
+    color: yellow;
+    font-size: 40px;
+}
+
+.first-paragraph {
+    
+    color: blueviolet;
+}
