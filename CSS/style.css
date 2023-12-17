@@ -44,7 +44,8 @@ span {
     color: white;
 
     div {
-
+        text-align: center;
+        color: white;
         background-color: red;
 
     }
